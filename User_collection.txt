@@ -1,0 +1,27 @@
+5
+
+Username:abc
+Password:123456
+The number of borrowed books:0
+Books in possession:
+
+Username:bcd
+Password:123454
+The number of borrowed books:0
+Books in possession:
+
+Username:mier
+Password:0099009
+The number of borrowed books:0
+Books in possession:
+
+Username:lunch
+Password:666ad
+The number of borrowed books:0
+Books in possession:
+
+Username:ee
+Password:12345
+The number of borrowed books:0
+Books in possession:
+

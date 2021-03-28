@@ -8,9 +8,9 @@
 
 typedef struct _Book {   //书节点的结构体 
 	    unsigned int id;   //书的id号 
-		char *title;   //书的名字 
-		char *authors;   //书的作者 
-		unsigned int year;  // 书的出版年份 
+		char title[99];   //书的名字 
+		char authors[99];   //书的作者 
+		int year;  // 书的出版年份 
 		unsigned int copies;   //图书馆记录在案的该书总库存 
 		unsigned int now_copies;  //当前该书的库存 
 		struct _Book *next;   //指向下一本书 

@@ -1,0 +1,30 @@
+4
+
+ID:1
+Title:DFS in map
+Authors:Dijkstra
+Release year:2000
+The total storage number:3
+Available storage number:3
+
+ID:2
+Title:DP in OI
+Authors:Alan
+Release year:2016
+The total storage number:2
+Available storage number:2
+
+ID:3
+Title:Number theory
+Authors:Euler
+Release year:1750
+The total storage number:5
+Available storage number:5
+
+ID:7
+Title:zz
+Authors:dd
+Release year:2020
+The total storage number:6
+Available storage number:6
+
