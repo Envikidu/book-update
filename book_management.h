@@ -1,6 +1,6 @@
 #ifndef BOOK_MANAGEMENT_GUARD__H 
 #define BOOK_MANAGEMENT_GUARD__H
-#include "Head_file.h"
+//#include "Head_file.h"
 
 #include <stdio.h>
 
@@ -8,9 +8,9 @@
 
 typedef struct _Book {   //书节点的结构体 
 	    unsigned int id;   //书的id号 
-		char *title;   //书的名字 
-		char *authors;   //书的作者 
-		unsigned int year;  // 书的出版年份 
+		char title[99];   //书的名字 
+		char authors[99];   //书的作者 
+		int year;  // 书的出版年份 
 		unsigned int copies;   //图书馆记录在案的该书总库存 
 		unsigned int now_copies;  //当前该书的库存 
 		struct _Book *next;   //指向下一本书 
@@ -34,6 +34,7 @@ BookArray Book_Head;  //声明书籍链表头部的实例，方便索引头部
 typedef struct _Users{  //用户节点的结构体 
 	char name[99];  //用户的名字 
 	char password[99];  //用户的密码 
+	char real_name[99]; //真实姓名 
 	int borrowed[99];   //数组记录当前该用户所在借的书的ID，borrowed[0]记录第一本书的id号，以此类推 
 	int borrow_number;  //记录用户当前所在借的书的总数 
 	struct _Users *next;  //指向下一个用户 
