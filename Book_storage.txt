@@ -1,0 +1,44 @@
+6
+
+ID:1
+Title:DFS in map
+Authors:Dijkstra
+Release year:2000
+The total storage number:3
+Available storage number:3
+
+ID:2
+Title:DP in OI
+Authors:Alan
+Release year:2016
+The total storage number:2
+Available storage number:1
+
+ID:3
+Title:Number theory
+Authors:Euler
+Release year:1750
+The total storage number:5
+Available storage number:4
+
+ID:4
+Title:Search in OI
+Authors:Niko
+Release year:2017
+The total storage number:7
+Available storage number:7
+
+ID:10
+Title:Thus Spoke Zarathustra
+Authors:Nietzsche
+Release year:1885
+The total storage number:6
+Available storage number:5
+
+ID:9
+Title:WooHoo
+Authors:Dragon
+Release year:2021
+The total storage number:5
+Available storage number:5
+
