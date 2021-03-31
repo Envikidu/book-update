@@ -1,0 +1,16 @@
+2
+
+ID:1
+Title:AC
+Authors:Ken
+Release year:2020
+The total storage number:5
+Available storage number:5
+
+ID:2
+Title:DP in OI
+Authors:Nick
+Release year:2016
+The total storage number:3
+Available storage number:3
+

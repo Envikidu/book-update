@@ -1,0 +1,21 @@
+3
+
+Realname:aa
+Username:bb
+Password:12345
+The number of borrowed books:0
+Books in possession:
+
+Realname:vv
+Username:ww
+Password:12343
+The number of borrowed books:0
+Books in possession:
+
+Realname:UU
+Username:uu
+Password:46546
+The number of borrowed books:1
+Books in possession:
+1
+
